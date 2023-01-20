@@ -22,7 +22,7 @@
 - `pip install bs4`
  
 - rm -rf BD-UPDET-CLONE
-`
+
 - `git clone https://github.com/MrALAMIN156/BD-UPDET-CLONE.git`
  
 - `cd BD-UPDET-CLONE`
